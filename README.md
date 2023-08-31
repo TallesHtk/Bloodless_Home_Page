@@ -30,7 +30,7 @@ Este projeto é licenciado sob a [Licença MIT](LICENSE).
 ---
 
 Siga-nos nas redes sociais:
-- [Twitter](https://twitter.com/bloodless_ss)
+- [Youtube](https://www.youtube.com/channel/UCslY99ePln3gakQypG-1xRw)
 - [Discord](https://discord.gg/NVWpwa5ZcM)
 
 © 2023 Bloodless™ SS. Todos os direitos reservados.
